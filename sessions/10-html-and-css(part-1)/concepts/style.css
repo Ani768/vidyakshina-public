@@ -1,0 +1,21 @@
+body {
+    background-color: #e6f7ff;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
